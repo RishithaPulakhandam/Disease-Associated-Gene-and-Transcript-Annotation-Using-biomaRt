@@ -74,9 +74,12 @@ The exact row counts depend on the annotations returned by Ensembl for the speci
 The project produces two tables:
 
 1. **Gene annotation table:** Entrez Gene ID, HGNC symbol, and Ensembl Gene ID.
+<img width="2266" height="660" alt="image" src="https://github.com/user-attachments/assets/a9202bf0-d97e-438f-8641-50c85346618f" />
 <img width="662" height="176" alt="image" src="https://github.com/user-attachments/assets/56a49bef-1cc9-4a94-be1f-c6ae380ce80a" />
 3. **Transcript annotation table:** HGNC symbol, Entrez Gene ID, and Ensembl Transcript ID.
 <img width="682" height="1222" alt="image" src="https://github.com/user-attachments/assets/68e57e21-2de7-4373-a732-9384d0db66df" />
+<img width="2244" height="934" alt="image" src="https://github.com/user-attachments/assets/c4089b83-43d4-466e-ab82-44e4ccfee27f" />
+
 
 The original coursework code and the resulting tables should be included in the repository so the analysis can be reviewed and reproduced.
 
